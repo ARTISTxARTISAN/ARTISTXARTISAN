@@ -1,4 +1,4 @@
-## Hi there from the ARTISTXARTISAN TEAM 👋
+## Hi there from the ARTISTxARTISAN TEAM 👋
 
 <!--
 **ARTISTxARTISAN/ARTISTXARTISAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub.
